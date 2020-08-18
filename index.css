@@ -80,9 +80,8 @@ button:focus {
 .grid {
     display: grid;
     width: 100%;
-    height: 50%;
     grid-template-columns: repeat(10, 1fr);
-    grid-auto-rows: 1fr;
+    grid-auto-rows: 40px;
     border: solid 5px white;
     border-radius: 25px;
     overflow: hidden;
