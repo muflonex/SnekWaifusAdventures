@@ -1,4 +1,4 @@
-# cMZyJ8Uv
+# Project Snek
 
 Quick start:
 
