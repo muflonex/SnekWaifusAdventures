@@ -1,4 +1,5 @@
 # Project Snek
+[Site](https://muflonex.github.io/SnekWaifusAdventures/)
 
 Quick start:
 
